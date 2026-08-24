@@ -1,2 +1,2 @@
-# [Zuma.eu.org](https://zuma.eu.org/)
+# [zuma.scot](https://www.zuma.scot/)
  My personal website 
